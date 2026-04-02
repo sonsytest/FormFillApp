@@ -5,7 +5,7 @@
     <hr>
     <br>  
 
-    <label for="name"><b>Email</b></label>
+    <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
@@ -21,6 +21,11 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
+
+    <label for="adhaar"><b>Adhaar</b></label>
+    <input type="text" placeholder="Enter Adhaar" name="Adhaar" id="Adhaar" required>
+    <br>
+
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
