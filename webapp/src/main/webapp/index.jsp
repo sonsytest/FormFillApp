@@ -26,6 +26,11 @@
     <input type="text" placeholder="Enter Adhaar" name="Adhaar" id="Adhaar" required>
     <br>
 
+    <label for="adhaar"><b>Adhaar</b></label>
+    <input type="text" placeholder="Enter Adhaar" name="Adhaar" id="Adhaar" required>
+    <br>
+
+
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
